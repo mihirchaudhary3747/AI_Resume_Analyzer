@@ -1,0 +1,17 @@
+# virtual environments
+venv/
+venv38/
+
+# python cache
+__pycache__/
+*.pyc
+
+# environment variables
+.env
+
+# dependencies copied manually
+pyresparser/
+
+# OS junk
+.DS_Store
+Thumbs.db
