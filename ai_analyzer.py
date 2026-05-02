@@ -4,7 +4,7 @@ from groq import Groq
 from dotenv import load_dotenv
 
 load_dotenv()
-client = Groq(api_key="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")
+client = Groq(api_key="TYPE_YOUR_API_KEY")
 
 def analyze_resume_ai(resume_text):
     try:
