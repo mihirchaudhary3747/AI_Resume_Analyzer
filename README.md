@@ -4,7 +4,7 @@ An intelligent resume analysis web application built with **Streamlit** and powe
 
 ---
 
-## ✨ Features
+## ✨ Feature
 
 ### 👤 User Side
 - **Resume Upload** — Upload PDF resumes for instant AI analysis
